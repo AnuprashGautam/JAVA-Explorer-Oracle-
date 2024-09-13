@@ -29,3 +29,5 @@
 2. **Java IO API**: Java IO API is used to perform input and output (I/O) in Java. Java IO API contains classes and interfaces to read and write data.
 
 3. **Java Stream API**: Java Stream API is used to process collections of objects. A stream is a sequence of objects that supports various methods that can be pipelined to produce the desired result.
+
+4. **Java Collections API**: Java Collections API is a set of classes and interfaces that implement commonly reusable collection data structures.
